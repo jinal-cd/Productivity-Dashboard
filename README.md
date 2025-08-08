@@ -4,28 +4,19 @@ Currently includes a Task Manager with add, search, and delete functionality, pl
 
 🚀 Features
 ✅ Task Manager – Add, search, and delete tasks easily
-
 🌗 Dark/Light Mode – Smooth theme switching with Tailwind’s dark class
-
 📦 Modular Widgets – Built to easily add more productivity tools
-
 📱 Responsive UI – Works on desktop, tablet, and mobile
-
 ⚡ Vite Powered – Super fast development and build times
 
 🛠 Tech Stack
 React 19 – Component-based UI
-
 Vite – Lightning-fast bundler
-
 Tailwind CSS – Utility-first styling
-
 useReducer, useMemo, useRef – For state, performance, and DOM references
 
 📂 Installation & Setup
-bash
-Copy
-Edit
+
 # 1️⃣ Clone the repository
 git clone https://github.com/jinal-cd/productivity-dashboard.git
 
