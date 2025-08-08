@@ -1,4 +1,4 @@
-📌 Productivity Dashboard
+📌 Productivity Dashboard :
 A sleek and responsive React + Vite + Tailwind CSS dashboard to help you stay organized and productive.
 Currently includes a Task Manager with add, search, and delete functionality, plus a Dark/Light Mode toggle — with more widgets planned (like Notes, Timers, and Reminders).
 
