@@ -1,12 +1,39 @@
-# React + Vite
+📌 Productivity Dashboard
+A sleek and responsive React + Vite + Tailwind CSS dashboard to help you stay organized and productive.
+Currently includes a Task Manager with add, search, and delete functionality, plus a Dark/Light Mode toggle — with more widgets planned (like Notes, Timers, and Reminders).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Task Manager – Add, search, and delete tasks easily
 
-Currently, two official plugins are available:
+🌗 Dark/Light Mode – Smooth theme switching with Tailwind’s dark class
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 Modular Widgets – Built to easily add more productivity tools
 
-## Expanding the ESLint configuration
+📱 Responsive UI – Works on desktop, tablet, and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Vite Powered – Super fast development and build times
+
+🛠 Tech Stack
+React 19 – Component-based UI
+
+Vite – Lightning-fast bundler
+
+Tailwind CSS – Utility-first styling
+
+useReducer, useMemo, useRef – For state, performance, and DOM references
+
+📂 Installation & Setup
+bash
+Copy
+Edit
+# 1️⃣ Clone the repository
+git clone https://github.com/jinal-cd/productivity-dashboard.git
+
+# 2️⃣ Go into the project directory
+cd productivity-dashboard
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm run dev
